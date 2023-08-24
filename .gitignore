@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/Array2.iml
+/.idea/
